@@ -1,0 +1,9 @@
+{
+  "name":"Perktaş Tarım & Hayvancılık",
+  "short_name":"Perktaş Tarım",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#06170e",
+  "theme_color":"#06170e",
+  "lang":"tr"
+}

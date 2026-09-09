@@ -1,0 +1,10 @@
+PERKTAŞ TARIM & HAYVANCILIK — YAYIN NOTU
+
+Bu klasör statik site olarak yayına hazırdır.
+- index.html: ana site
+- robots.txt: arama motoru tarama izni
+- sitemap.xml: Google indeksleme haritası
+- site.webmanifest: mobil uygulama görünümü
+
+Not: Google'da görünmesi yayınlandıktan sonra Google'ın tarama ve indeksleme sürecine bağlıdır.
+Sitemap adresi yayınlanan alan adına göre güncellenmelidir.
